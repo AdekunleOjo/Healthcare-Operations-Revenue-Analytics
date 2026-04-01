@@ -1,9 +1,11 @@
-# 🏥 Healthcare Operations & Revenue Analytics (SQL + Power BI)
+# 🏥 Healthcare Operations & Revenue Analytics 
 
 ---
 
 ## 📊 Overview
-End-to-end healthcare analytics project transforming raw data into actionable insights using SQL Server and Power BI.
+This project presents a complete end-to-end healthcare analytics workflow, transforming raw and inconsistent data into actionable business insights.
+
+The analysis focuses on **patient demand, operational performance, and financial efficiency**, with the goal of supporting data-driven decision-making in a healthcare environment.
 
 Focus areas:
 - Patient demand  
@@ -49,7 +51,7 @@ A 3-page Power BI dashboard answering key business questions:
 
 ## 📸 Healthcare Operations & Revenue Analytics Dashboard
 
-![Dashboard](images/Image_report.png)
+![Dashboard](images/dashboard_image.png)
 
 ---
 
