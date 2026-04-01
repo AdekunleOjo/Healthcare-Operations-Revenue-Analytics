@@ -51,7 +51,7 @@ A 3-page Power BI dashboard answering key business questions:
 
 ## 📸 Healthcare Operations & Revenue Analytics Dashboard
 
-![Dashboard](images/dashboard_image.png)
+![Dashboard](image/dashboard_image.png)
 
 ---
 
