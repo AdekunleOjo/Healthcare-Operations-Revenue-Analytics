@@ -29,7 +29,7 @@ Healthcare data was fragmented, inconsistent, and lacked visibility into:
 - Normalized categorical fields  
 - Ensured relational integrity across tables  
 
-👉 [View SQL Script](sql/data_cleaning.sql)
+👉 [Download Data_Cleaning.sql](https://raw.githubusercontent.com/AdekunleOjo/Healthcare-Operations-Revenue-Analytics/main/Healthcare%20Operations%20%26%20Revenue%20Analytics/Sql/Data_Cleaning.sql)
 
 ---
 
@@ -51,7 +51,7 @@ A 3-page Power BI dashboard answering key business questions:
 
 ## 📸 Healthcare Operations & Revenue Analytics Dashboard
 
-![Dashboard](image/dashboard_image.png)
+![Healthcare Operations & Revenue Analytics](https://raw.githubusercontent.com/AdekunleOjo/Healthcare-Operations-Revenue-Analytics/main/Healthcare%20Operations%20%26%20Revenue%20Analytics/Image/dashboard_image.png)
 
 ---
 
